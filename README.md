@@ -72,7 +72,7 @@ Ensure your uploaded CSV file has the following columns:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/customer-segmentation.git
+git clone https://github.com/gokulraktate/Customer-Segmentation-for-E-commerce.git
 cd customer-segmentation
 ```
 

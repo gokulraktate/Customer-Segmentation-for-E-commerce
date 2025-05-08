@@ -115,10 +115,10 @@ You can use the sample CSV provided (`customer_segmentation_perfect_50.csv`) to 
 
 ## 📌 Author
 
-👨‍💻 Gokul Raktate  
 👨‍💻 Krishna Shelar
+👨‍💻 Gokul Raktate
 👨‍💻 Prasad Parjane
-👨‍💻 Rohit Wakchaure
+👨‍💻 Rohit Wakchaure  
 🎓 Computer Science Student, Sanjivani College of Engineering, Kopargaon
 
 ---
